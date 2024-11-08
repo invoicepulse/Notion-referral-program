@@ -85,6 +85,9 @@ export default function Component() {
                   Supercharge your business with Notion's Startups Program!
                   Internise has partnered with Notion to provide startups some
                   amazing benefits.
+                  Please make sure to email us at admin@invoicepulse.online
+                  after submitting the application with the subject line:
+                  "Notion for Startups." 
                 </p>
                 <p className="text-red-600 font-semibold">
                   Note: This offer expires at 11:59 PM CET on 8th November,
@@ -202,6 +205,10 @@ export default function Component() {
                   double check it. Then you will be enrolled into Notion Startup
                   Program related to us, which will give you $100 and $3,000 in
                   Notion.
+
+                  Please make sure to email us at admin@invoicepulse.online
+                  after submitting the application with the subject line:
+                  "Notion for Startups."
                 </p>
               </CardContent>
             </Card>
